@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-26T16:00:28 IST" name="Default suite" finished-at="2024-07-26T16:00:39 IST" duration-ms="11642">
+    <groups>
+    </groups>
+    <test started-at="2024-07-26T16:00:28 IST" name="Default test" finished-at="2024-07-26T16:00:39 IST" duration-ms="11642">
+      <class name="Sample_test_script.TC001_Test">
+        <test-method signature="Linkedin()[pri:0, instance:Sample_test_script.TC001_Test@8dbdac1]" started-at="2024-07-26T16:00:28 IST" name="Linkedin" finished-at="2024-07-26T16:00:39 IST" duration-ms="11565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Linkedin -->
+      </class> <!-- Sample_test_script.TC001_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
